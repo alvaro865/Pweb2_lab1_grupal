@@ -30,12 +30,12 @@
 </theader>
 <tbody>
 <tr><td>ASIGNATURA:</td><td colspan="5">Programación Web 2</td></tr>
-<tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">JavaScript</td></tr>
+<tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Vim-Git hub</td></tr>
 <tr>
-<td>NÚMERO DE PRÁCTICA:</td><td>02</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
+<td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
 <tr>
-<td>FECHA PRESENTACION::</td><td>5-mayo-2022</td><td>HORA DE PRESENTACION:</td><td>9-mayo-2022</td><td></td><td></td>
+<td>FECHA PRESENTACION::</td><td>25-abril-2022</td><td>HORA DE PRESENTACION:</td><td>29-abril-2022</td><td></td><td></td>
 </tr>
 <tr>
 <td>INTEGRANTES::</td><td>
@@ -60,48 +60,29 @@
 
 ## I. SOLUCION DE EJERCICIOS/PROBLEMAS
 
-- Solucion del Ejercicio 1 al 5:
-  https://github.com/alvaro865/Pweb2_lab_02
-  - Ejercicio 1
-  
-  - ![Ejercicio 1](ejercicio01.png)
-  
-  - Ejercicio 2
-  
-  - ![Ejercicio 2](ejercicio02.png)
-  
-  - Ejercicio 3
-  
-  - ![Ejercicio 3](ejercicio03.png)
-  
-  - Ejercicio 4
-  
-  - ![Ejercicio 4](ejercicio04.png)
-  
-- Solucion al Ejericio 6:
-  https://flipgrid.com/837b6633
+- Url de git hub:
+   https://github.com/alvaro865/Pweb2_lab1_grupal
+- Se creo dos ramas:
+  La rama main contiene las funciones de las operaciones add,red,mul,div,mod
+  La rama colaborador 1 contiene el metodo principal main el cual podra correr el programa
+
 
 ## II. SOLUCION DEL CUESTIONARIO
 
- - ¿Como se pueden resolver los warnings?
-    Siguiendo las respuestas de stackoverflow nos da algunas opciones como el de usar foreach pues el solo usar for sin un tamaño predefinido nos puede mandar 
-    problemas, otra opcion que nos indican es el de preestablecer un tamaño al array antes de usar el for, y una mas es el de usar la herramienta map y debemos
-    de indicar que cuando se usa esta herramienta las funciones son en flecha.
+ - ¿Por qué Git y GitHub son herramientas importantes para el curso?
+    Por que con git se puede guardar un historial sin necesidad de internet y poder dar seguimiento mediante un historial de commits, y el git hub por que podemos 
+    trabajar con distintas personas y publicar a los demas lo que estemos realizando remotamente.
     
- - ¿Se puede resolver usando map?¿Como? 
-    Hice algunos cambios en la function como por ejemplo:
-    function myFunction(n, min, max) {
-	let a = new Array(n);
-    let b = a.map(function(n){return n*(Math.random() * (max -min) +min)});
-    return b[1];
-    }
-    Pero cuando lo ejecuto me manda indefinido por lo que aun no pude resolverlo con map
+ - ¿Qué conductas éticas deberían promocionarse cuando se usa un Sistema de Control de Versiones?
+    Deberia de referenciar si se siguio alguna pagina o documento pues no solo ayuda al que esta realizando el trabajo sino que tambien a los que puedan observar 
+    el trabajo publico.
+
+ - ¿Qué son los entándares de codificación?
+   Son reglas (programación) que busca reducir el número de decisiones que el desarrollador tiene que tomar al momento de escribir su código
+   
 
 ## III. CONCLUSIONES
 
-- Se puede controlar el comportamniento de una pagina web con el lenguaje de javaScript por lo que nos sera de mucha ayuda al momento de querer interactuar 
-  con el usuario y poder ayudar al usuario con el trabajo que brinde la pagina web.
-- La pagina de stackoverflow es muy interesante pues se puede observar como varias personas tratan de ayudar con opiniones o sentencias de codigo y al ser 
-  varias respuestas estan dan muchas posibilidades de resolver un problema en comun.
-- Respecto a flipgrid me parece una buena forma de informar algo nuevo en un tiempo corto pues se necesita saber muy bien del tema para poder hacer un resumen 
-  el cual los interasados puedan comprender.
+- Trabajar con git y github son muy utiles cuando se trabaja remotamente y tambien se puede trabajar con demas colaboradores remotamente.
+- Se debe de tener mucho cuidado al momento de cambiar los nombres de las ramas pues luego se volvera tedioso poder ejecutar los comandos pull o setch para subir 
+  de git a github.
