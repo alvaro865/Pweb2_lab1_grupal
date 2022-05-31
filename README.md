@@ -64,7 +64,12 @@
    https://github.com/alvaro865/Pweb2_lab1_grupal
 - Se creo dos ramas:
   La rama main contiene las funciones de las operaciones add,red,mul,div,mod
+  
+   - ![Ejercicio 1](ejercicio1.png)
+   
   La rama colaborador 1 contiene el metodo principal main el cual podra correr el programa
+  
+   - ![Ejercicio 1](ejercicio2.png)
 
 
 ## II. SOLUCION DEL CUESTIONARIO
