@@ -60,16 +60,23 @@
 
 ## I. SOLUCION DE EJERCICIOS/PROBLEMAS
 
-- Url de git hub:
+- URL de problema individual:
+   https://github.com/alvaro865/pweb2
+
+- Url de problema grupal:
    https://github.com/alvaro865/Pweb2_lab1_grupal
 - Se creo dos ramas:
   La rama main contiene las funciones de las operaciones add,red,mul,div,mod
   
-   - ![Ejercicio 1](ejercicio1.png)
+   - ![Ejercicio 1](ejercicio_1.png)
    
   La rama colaborador 1 contiene el metodo principal main el cual podra correr el programa
   
-   - ![Ejercicio 1](ejercicio2.png)
+   - ![Ejercicio 1](ejercicio_2.png)
+
+  Resultado del problema
+  
+   - ![Ejercicio 1](ejercicio_3.png)
 
 
 ## II. SOLUCION DEL CUESTIONARIO
